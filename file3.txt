@@ -1,0 +1,8 @@
+The existing virtual mouse system, employing hand gestures for computer interaction, provides a straightforward 
+method for controlling the mouse cursor and executing basic tasks. Utilizing a hand recognition system and image 
+processing techniques, users can perform actions such as pointer control, left and right clicks, and dragging 
+motions. However, to enhance its capabilities and usability, the proposed work aims to integrate advanced machine 
+learning methods to enable the system to recognize a wider range of hand gestures accurately. By leveraging AutoPy, 
+mathematical operations, and refined mouse control algorithms, the enhanced system will offer users a more 
+intuitive and seamless experience, catering to a broader spectrum of users, including those with physical 
+limitations or those seeking a hands-free approach to computer interaction.
